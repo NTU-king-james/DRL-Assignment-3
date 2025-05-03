@@ -7,3 +7,4 @@ gym==0.23.1
 gym_super_mario_bros
 torchrl
 matplotlib
+opencv-python
